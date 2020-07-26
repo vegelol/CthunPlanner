@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: CthunPlanner
+## Author: Vege-Kirtonos
+## Version: 1.0
+## Notes: Shows optimal positioning based on groups for C'thun
+
+CthunPlanner.lua
